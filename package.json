@@ -18,11 +18,11 @@
     "tabs"
   ],
   "author": "Ferran Negre Pizarro <fnp.developer@gmail.com>",
-  "homepage": "https://github.com/react-native-community/react-native-viewpager#readme",
+  "homepage": "https://github.com/431910864/react-native-viewpager#readme",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/react-native-community/react-native-viewpager.git"
+    "url": "https://github.com/431910864/react-native-viewpager.git"
   },
   "peerDependencies": {
     "react": "^16.0",
